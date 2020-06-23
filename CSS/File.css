@@ -1,0 +1,69 @@
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+body{
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #00bcd4;
+  font-size: 2.5rem;
+}
+h2 {
+  color: #00bcd4;
+  font-family: 'Sacramento', cursive;
+  font-size: 2.7rem;
+  text-align: center;
+}
+
+li{
+  font-size: 1.3rem;
+  margin: 1.5% 1.5% 1.5% 1.5%;
+}
+
+.achievements{
+  font-size: 1.3rem;
+}
+
+.achievements:hover{
+  color:#00909e;
+}
+
+.edu:hover{
+  color:#00909e;
+}
+
+.border{
+  border-radius: 100%;
+}
+.fab{
+  font-size: 3rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.far{
+  font-size: 3.2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.fas{
+  font-size: 3.2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+#footer{
+  padding-bottom: 5%;
+  text-align: center;
+}
