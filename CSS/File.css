@@ -23,18 +23,18 @@ h2 {
 li{
   font-size: 1.3rem;
   margin: 1.5% 1.5% 1.5% 1.5%;
-}
+ }
 
 .achievements{
   font-size: 1.3rem;
 }
 
 .achievements:hover{
-  color:#00909e;
+  color:#086972;
 }
 
 .edu:hover{
-  color:#00909e;
+  color:#086972;
 }
 
 .border{
@@ -46,13 +46,16 @@ li{
   padding-right: 2rem;
 }
 
+
 .far{
   font-size: 3.2rem;
   padding-left: 2rem;
   padding-right: 2rem;
 }
 
-a{
+
+
+a {
   text-decoration: none;
   color: inherit;
 }
@@ -61,9 +64,4 @@ a{
   font-size: 3.2rem;
   padding-left: 2rem;
   padding-right: 2rem;
-}
-
-#footer{
-  padding-bottom: 5%;
-  text-align: center;
 }
